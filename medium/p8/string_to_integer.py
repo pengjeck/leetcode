@@ -1,5 +1,6 @@
 # coding: utf-8
 '''
+[unfinished!!!]
 Implement atoi to convert a string to an integer.
 '''
 import ctypes
